@@ -1,0 +1,12 @@
+
+{
+    "menuitem": [
+      {"entrer": "Bonjour", "result": "Bonjour", "poid": "100"},
+      {"entrer": "Salut", "result": "Salut", "poid": "100"},
+      {"entrer": "Bonjour", "result": "Oui", "poid": "75"},
+	  {"entrer": "Coucou", "result": "Oui", "poid": "50"},
+	  {"entrer": "Coucou", "result": "Coucou", "poid": "100"},
+	  {"entrer": "Coucou", "result": "Salut", "poid": "75"},
+	  {"entrer": "Hello", "result": "Hello", "poid": "100"}]
+}
+
